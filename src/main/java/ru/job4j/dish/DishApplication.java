@@ -8,6 +8,7 @@ public class DishApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DishApplication.class, args);
+        System.out.println("REST API Dish service ready for work!");
     }
 
 }
